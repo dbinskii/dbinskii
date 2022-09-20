@@ -14,6 +14,7 @@
 [<img align="left" alt="Android Studio" width="30px" src="https://img.icons8.com/color/344/android-studio--v3.png"/>][Android Studio]
 [<img align="left" alt="Xcode" width="30px" src="https://upload.wikimedia.org/wikipedia/ru/0/0c/Xcode_icon.png"/>][Xcode]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Visual Studio Code]
+[<img align="left" alt="Visual Studio Code" width="30px" src="https://www.tadviser.ru/images/2/28/Figma2.png" />][Figma]
 
 <br />
 <br />
@@ -33,3 +34,4 @@
 [Android Studio]: https://developer.android.com/studio
 [Xcode]: https://developer.apple.com/xcode/
 [Visual Studio Code]: https://code.visualstudio.com
+[Figma]: https://www.figma.com/files/recent?fuid=1141714886146327093
