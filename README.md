@@ -28,7 +28,7 @@
 </details>
 
 [Mail]: https://mailto:devuserror@gmail.com
-[Telegram]: https://tlgg.ru/devUserror
+[Telegram]: https://tlgg.ru/dubinsky
 [Dart]: https://dart.dev
 [Flutter]: https://flutter.dev
 [Android Studio]: https://developer.android.com/studio
