@@ -2,7 +2,7 @@
 ### I'm a beginner mobile developer 📲
 ## Contact me via:
 
-[<img align="left" alt="webtricks-master.ru" width="30px" src="https://img.icons8.com/color/344/gmail-new.png"/>][Mail]
+[<img align="left" alt="webtricks-master.ru" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
 [<img align="left" alt="webtricks-master.ru" width="30px" src="https://img.icons8.com/color/344/telegram-app--v1.png" />][Telegram]
 
 <br />
