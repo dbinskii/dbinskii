@@ -1,4 +1,4 @@
-## Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="35px" width="35px">, I'm Andrey
+## Hi <img src="https://github.com/dbinsky/dbinsky/blob/main/assets/hey.gif?raw=true" height="35px" width="35px">, I'm Andrey
 ### I'm a beginner mobile developer 📲
 ## Contact me via:
 
