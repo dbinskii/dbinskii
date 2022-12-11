@@ -28,7 +28,7 @@
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbinsky&langs_count=8&layout=compact&theme=react"/>
 </details>
 
-[Mail]: https://mailto:devuserror@gmail.com
+[Mail]: https://mailto:dubinsky.ad@gmail.com
 [Telegram]: https://tlgg.ru/dubinsky
 [Dart]: https://dart.dev
 [Flutter]: https://flutter.dev
