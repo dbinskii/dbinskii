@@ -12,7 +12,6 @@
 [<img align="left" alt="Dart" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/dart.png"/>][Dart]
 [<img align="left" alt="Flutter" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/flutter.png"/>][Flutter]
 [<img align="left" alt="Android Studio" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/android_studio.png"/>][Android Studio]
-[<img align="left" alt="Android Studio" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/intellij_idea.png"/>][IntelliJ IDEA]
 [<img align="left" alt="Xcode" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png"/>][Xcode]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png"/>][Visual Studio Code]
 [<img align="left" alt="Figma" width="35px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png"/>][Figma]
@@ -36,4 +35,3 @@
 [Xcode]: https://developer.apple.com/xcode/
 [Visual Studio Code]: https://code.visualstudio.com
 [Figma]: https://www.figma.com/files/recent?fuid=1141714886146327093
-[IntelliJ IDEA]: https://www.jetbrains.com/ru-ru/idea/
