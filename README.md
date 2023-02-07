@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/dbinsky/dbinsky/blob/main/assets/greetings.gif" align="center">
+<img src="https://github.com/dbinsky/dbinsky/blob/main/assets/hello.gif" align="center">
 </div>
 
 ## Contact me via:
