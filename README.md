@@ -21,8 +21,6 @@
 
    <br />
    <img src="https://komarev.com/ghpvc/?username=dbinsky&style=flat-square&color=blue" alt=""/>
-   <br />
-
 [Mail]: https://mailto:dubinsky.ad@gmail.com
 [Telegram]: https://tlgg.ru/dubinsky
 [Dart]: https://dart.dev
