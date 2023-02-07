@@ -19,7 +19,6 @@
 <br />
 <br />
 
-  <summary>:zap: Statistics:</summary>
    <br />
    <img src="https://komarev.com/ghpvc/?username=dbinsky&style=flat-square&color=blue" alt=""/>
    <br />
