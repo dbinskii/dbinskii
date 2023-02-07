@@ -1,5 +1,6 @@
-## Hi <img src="https://github.com/dbinsky/dbinsky/blob/main/assets/hey.gif?raw=true" height="35px" width="35px">, I'm Andrey
-### I'm a beginner mobile developer 📲
+<div align="center">
+<img src="https://github.com/dbinsky/dbinsky/blob/main/assets/greetings.gif" align="center" style="width: 50%" />
+</div>  
 ## Contact me via:
 
 [<img align="left" alt="webtricks-master.ru" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
