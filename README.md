@@ -1,6 +1,7 @@
 <div align="center">
-<img src="https://github.com/dbinsky/dbinsky/blob/main/assets/greetings.gif" align="center" style="width: 50%" />
-</div>  
+<img src="https://github.com/dbinsky/dbinsky/blob/main/assets/greetings.gif" align="center" style="width: 100%" />
+</div>
+
 ## Contact me via:
 
 [<img align="left" alt="webtricks-master.ru" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
