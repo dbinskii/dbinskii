@@ -4,8 +4,8 @@
 
 ## Contact me via:
 
-[<img align="left" alt="webtricks-master.ru" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
-[<img align="left" alt="webtricks-master.ru" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
+[<img align="left" alt="webtricks-master.ru" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
+[<img align="left" alt="webtricks-master.ru" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
 
 <br />
 
