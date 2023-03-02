@@ -9,26 +9,31 @@
 
 <br />
 
-## My tools:
+## My Skill Set:
 
-[<img align="left" alt="Dart" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/dart.png"/>][Dart]
-[<img align="left" alt="Flutter" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/flutter.png"/>][Flutter]
-[<img align="left" alt="Android Studio" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/android_studio.png"/>][Android Studio]
-[<img align="left" alt="Xcode" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png"/>][Xcode]
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png"/>][Visual Studio Code]
-[<img align="left" alt="Figma" width="35px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png"/>][Figma]
+<table><tr><td valign="top">
 
-<br />
-<br />
+### Language/Framework
+<div align="center">
+<a href="https://dart.dev" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/dart.png" alt="Dart" height="50" /></a>
+<a href="https://flutter.dev" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/flutter.png" alt="Flutter" height="50" /></a>
+
+</td><td valign="top"> 
+
+### Tools  
+<div align="center">
+<a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/android_studio.png" alt="AndroidStudio" height="50" /></a>
+<a href="https://developer.apple.com/xcode/" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png" alt="Xcode" height="50" /></a>
+<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png" alt="VSCode" height="50" /></a>
+<a href="https://www.figma.com/files/recent?fuid=1141714886146327093" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png" alt="Figma" height="50" /></a>
+<a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png" alt="Postman" height="50" /></a>
+
+</td></tr></table>
+
+
 
    <br />
    <img src="https://komarev.com/ghpvc/?username=dbinsky&style=flat-square&color=blue" alt=""/>
    
 [Mail]: https://mailto:dubinsky.ad@gmail.com
 [Telegram]: https://tlgg.ru/dubinsky
-[Dart]: https://dart.dev
-[Flutter]: https://flutter.dev
-[Android Studio]: https://developer.android.com/studio
-[Xcode]: https://developer.apple.com/xcode/
-[Visual Studio Code]: https://code.visualstudio.com
-[Figma]: https://www.figma.com/files/recent?fuid=1141714886146327093
