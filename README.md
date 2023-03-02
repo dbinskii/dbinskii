@@ -26,7 +26,7 @@
 <a href="https://developer.apple.com/xcode/" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png" alt="Xcode" height="50" /></a>
 <a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png" alt="VSCode" height="50" /></a>
 <a href="https://www.figma.com/files/recent?fuid=1141714886146327093" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png" alt="Figma" height="50" /></a>
-<a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png" alt="Postman" height="50" /></a>
+<a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/postman.svg" alt="Postman" height="50" /></a>
 
 </td></tr></table>
 
