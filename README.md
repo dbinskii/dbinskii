@@ -4,8 +4,8 @@
 
 ## Contact me via:
 
-[<img align="left" alt="webtricks-master.ru" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
-[<img align="left" alt="webtricks-master.ru" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
 
 <br />
 <br />
@@ -13,11 +13,11 @@
 
 ## Tools:
 
-<img align="left" alt="https://developer.android.com/studio" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/android_studio.png"/>
-<img align="left" alt="https://developer.apple.com/xcode/" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png"/>
-<img align="left" alt="https://code.visualstudio.com" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png"/>
-<img align="left" alt="https://www.figma.com/files/recent?fuid=1141714886146327093" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png"/>
-<img align="left" alt="https://www.postman.com" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/postman.svg"/>
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/visual_studio_code.png"/>][VSCode]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/android_studio.png"/>][Android Studio]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/xcode.png"/>][XCode]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/figma.png"/>][Figma]
+[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/postman.svg"/>][Post Man]
 
    <br />
    <br />
@@ -26,3 +26,8 @@
    
 [Mail]: https://mailto:dubinsky.ad@gmail.com
 [Telegram]: https://tlgg.ru/dubinsky
+[VSCode]: https://code.visualstudio.com
+[Android Studio]: https://developer.android.com/studio
+[XCode]: https://developer.apple.com/xcode/
+[Figma]: https://www.figma.com/files/recent?fuid=1141714886146327093
+[Post Man]: https://www.postman.com
