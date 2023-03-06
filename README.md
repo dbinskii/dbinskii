@@ -29,5 +29,5 @@
 [VSCode]: https://code.visualstudio.com
 [Android Studio]: https://developer.android.com/studio
 [XCode]: https://developer.apple.com/xcode/
-[Figma]: https://www.figma.com/files/recent?fuid=1141714886146327093
+[Figma]: https://www.figma.com/
 [Post Man]: https://www.postman.com
