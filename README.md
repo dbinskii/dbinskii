@@ -4,8 +4,8 @@
 
 ## Contact me via:
 
-[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
-[<img align="left" width="50px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
+[<img align="left" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
+[<img align="left" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
 
 <br />
 <br />
