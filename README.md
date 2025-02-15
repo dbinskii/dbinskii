@@ -6,13 +6,3 @@
 
 [<img align="left" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/gmail.png?raw=true"/>][Mail]
 [<img align="left" width="60px" src="https://github.com/dbinsky/dbinsky/blob/main/assets/telegram.png?raw=true" />][Telegram]
-
-<br />
-<br />
-<br />
-<br />
-
-   <img src="https://komarev.com/ghpvc/?username=dbinsky&style=flat-square&color=blue" alt=""/>
-   
-[Mail]: https://mailto:dubinsky.ad@gmail.com
-[Telegram]: https://tlgg.ru/dubinsky
